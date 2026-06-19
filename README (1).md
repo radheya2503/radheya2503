@@ -368,13 +368,6 @@ Email Forensics        ███████████████░░░░
 <img src="https://github-readme-stats.vercel.app/api?username=radheya2503&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00C8FF&icon_color=00C8FF&text_color=a0d8ef&ring_color=7b5ea7" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radheya2503&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C8FF&text_color=a0d8ef&langs_count=8" width="40%" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=radheya2503&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00C8FF&fire=7b5ea7&currStreakLabel=00C8FF&sideLabels=a0d8ef&dates=a0d8ef" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radheya2503&bg_color=0d1117&color=00C8FF&line=7b5ea7&point=00C8FF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
