@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:0d2137,100:00c8ff&height=200&section=header&text=Radheya%20B&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20AI%2FML%20Security%20%7C%20B.Tech%20CSE%20%40%20SRM&descAlignY=58&descSize=16&descColor=a0d8ef&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,50:0d2137,100:00c8ff&height=200&section=header&text=Radheya%20A&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20AI%2FML%20Security%20%7C%20B.Tech%20CSE%20%40%20SRM&descAlignY=58&descSize=16&descColor=a0d8ef&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -40,7 +40,7 @@
 #  SYSTEM PROFILE — radheya2503
 # ─────────────────────────────────────────────────────
 
-class Radheya A:
+class RadheyaA:
 
     # ── Identity ──────────────────────────────────────
     name       =  "Radheya A"
@@ -431,6 +431,6 @@ Email Forensics        ███████████████░░░░
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7b5ea7,100:020b18&height=120&section=footer&text=Radheya%20B%20·%20Cybersecurity%20Engineer&fontSize=16&fontColor=a0d8ef&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7b5ea7,100:020b18&height=120&section=footer&text=Radheya%20A%20·%20Cybersecurity%20Engineer&fontSize=16&fontColor=a0d8ef&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
