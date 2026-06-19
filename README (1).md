@@ -40,10 +40,10 @@
 #  SYSTEM PROFILE — radheya2503
 # ─────────────────────────────────────────────────────
 
-class RadheyaB:
+class Radheya A:
 
     # ── Identity ──────────────────────────────────────
-    name       =  "Radheya B"
+    name       =  "Radheya A"
     role       =  "Cybersecurity Engineer & AI/ML Security Researcher"
     education  =  "B.Tech CSE (Cybersecurity) · SRM Institute · 2023–2027"
     cgpa       =  8.25   # as of 6th Semester
