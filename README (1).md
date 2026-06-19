@@ -60,7 +60,7 @@ class RadheyaA:
     ]
 
     # ── Stack ─────────────────────────────────────────
-    languages  = ["Python", "Java", "SQL", "C", "C++", "HTML/CSS/JS"]
+    languages  = ["Python", "Java", "SQl"]
     backend    = ["Flask", "MySQL", "JDBC"]
     sec_tools  = ["nmap", "Wireshark", "Metasploit", "Burp Suite", "Linux CLI"]
     ai_ml      = ["NLP", "TF-IDF", "LLM", "Anomaly Detection", "LSTM"]
